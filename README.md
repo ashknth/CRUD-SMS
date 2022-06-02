@@ -23,12 +23,9 @@ CRUD in SMS is an android application developed by a team with a motive of creat
 - And other real usages features
 
 ## Demo of the project
- ![App Icon](https://github.com/ashknth/Test-Repo/blob/main/Screen%20Shot%202021-07-28%20at%2011.31.52%20PM.png)
- ![App Icon](https://github.com/ashknth/Test-Repo/blob/main/Screen%20Shot%202021-07-28%20at%2011.32.26%20PM.png)
- ![App Icon](https://github.com/ashknth/Test-Repo/blob/main/Screen%20Shot%202021-07-28%20at%2011.32.50%20PM.png)
- ![App Icon](https://github.com/ashknth/Test-Repo/blob/main/Screen%20Shot%202021-07-28%20at%2011.33.02%20PM.png)
- ![App Icon](https://github.com/ashknth/Test-Repo/blob/main/Screen%20Shot%202021-07-28%20at%2011.33.13%20PM.png)
- ![App Icon](https://github.com/ashknth/Test-Repo/blob/main/Screen%20Shot%202021-07-28%20at%2011.33.27%20PM.png)
+ ![App Icon](https://github.com/ashknth/Test-Repo/blob/main/Screen%20Shot%202021-07-28%20at%2011.31.52%20PM.png)![App Icon](https://github.com/ashknth/Test-Repo/blob/main/Screen%20Shot%202021-07-28%20at%2011.32.26%20PM.png)
+ ![App Icon](https://github.com/ashknth/Test-Repo/blob/main/Screen%20Shot%202021-07-28%20at%2011.32.50%20PM.png)![App Icon](https://github.com/ashknth/Test-Repo/blob/main/Screen%20Shot%202021-07-28%20at%2011.33.02%20PM.png)
+ ![App Icon](https://github.com/ashknth/Test-Repo/blob/main/Screen%20Shot%202021-07-28%20at%2011.33.13%20PM.png)![App Icon](https://github.com/ashknth/Test-Repo/blob/main/Screen%20Shot%202021-07-28%20at%2011.33.27%20PM.png)
 
 
 
