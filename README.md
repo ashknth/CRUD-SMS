@@ -24,7 +24,6 @@ CRUD in SMS is an android application developed by a team with a motive of creat
 
 ## Demo of the project
  ![App Icon](https://github.com/ashknth/Test-Repo/blob/main/Screen%20Shot%202021-07-28%20at%2011.31.52%20PM.png)
-  ![App Icon](https://github.com/ashknth/Test-Repo/blob/main/Screenshot_2021-07-28-23-34-53-761_com.dbworks.jpg)
  ![App Icon](https://github.com/ashknth/Test-Repo/blob/main/Screen%20Shot%202021-07-28%20at%2011.32.26%20PM.png)
  ![App Icon](https://github.com/ashknth/Test-Repo/blob/main/Screen%20Shot%202021-07-28%20at%2011.32.50%20PM.png)
  ![App Icon](https://github.com/ashknth/Test-Repo/blob/main/Screen%20Shot%202021-07-28%20at%2011.33.02%20PM.png)
